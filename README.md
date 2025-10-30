@@ -1,1 +1,1 @@
-# DS/Algo Studies
+# DS / Algo Studies
