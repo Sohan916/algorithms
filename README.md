@@ -1,1 +1,1 @@
-# DS / Algo Studies
+# Data Structures & Algorithms Studies
